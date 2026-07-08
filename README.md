@@ -10,7 +10,7 @@
 
 # 📖 Présentation
 
-Le projet **JOJ Dakar 2026 – Transport Hub** est une plateforme web développée dans le cadre d'un système de gestion du transport des Jeux Olympiques de la Jeunesse Dakar 2026.
+Le projet **JOJ Dakar 2026 – Transport Hub** https://joj-dakar-transport.vercel.app/ est une plateforme web développée dans le cadre d'un système de gestion du transport des Jeux Olympiques de la Jeunesse Dakar 2026.
 
 L'objectif principal est de fournir aux administrateurs un outil moderne permettant de superviser l'ensemble des déplacements des différents acteurs des Jeux (athlètes, chauffeurs, personnel d'organisation, équipes de support, etc.).
 
